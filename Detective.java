@@ -4,9 +4,9 @@ import java.awt.event.*;
 import java.util.*;
 /**
  * Detective - Class to puzzle
- * @authors Group 3: Mirsaid Abbasov, Alisher Beisembekov, Omar Arafa, Ali Akbar Jafri
+ * @authors Alisher Beisembekov
  * @version 01/03/2021
- * ISTE-121 Project
+ * Project
  */
 public class Detective extends JFrame
 {
