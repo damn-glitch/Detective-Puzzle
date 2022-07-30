@@ -8,7 +8,7 @@ import java.lang.*;
 
 /**
  * ClientDetective - Class to puzzle
- * @authors Alisher Beisembekov
+ * @author Alisher Beisembekov
  * @version 01/03/2021
  * Project
  */
