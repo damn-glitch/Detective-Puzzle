@@ -4,7 +4,7 @@ import java.awt.event.*;
 import java.util.*;
 /**
  * Detective - Class to puzzle
- * @authors Alisher Beisembekov
+ * @author Alisher Beisembekov
  * @version 01/03/2021
  * Project
  */
