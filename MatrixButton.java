@@ -4,9 +4,9 @@ import java.awt.event.*;
 import java.time.*;
 /**
  * MatrixButton - Class to hold a matrix of players
- * @authors Group 3: Mirsaid Abbasov, Alisher Beisembekov, Omar Arafa, Ali Akbar Jafri
+ * @author Alisher Beisembekov
  * @version 01/03/2021
- * ISTE-121 Project
+ * Project
  */
 class MatrixButton extends JButton {
    //Attributes
