@@ -8,9 +8,9 @@ import java.lang.*;
 
 /**
  * ClientDetective - Class to puzzle
- * @authors Group 3: Mirsaid Abbasov, Alisher Beisembekov, Omar Arafa, Ali Akbar Jafri, Shaikh Faizan
+ * @authors Alisher Beisembekov
  * @version 01/03/2021
- * ISTE-121 Project
+ * Project
  */
 
 public class ClientDetective extends JFrame implements ActionListener {
