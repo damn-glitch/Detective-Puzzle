@@ -5,9 +5,9 @@ import java.time. * ;
 import java.util. * ;
 /**
  * ButtonHandle - Class to hold all actions of buttons, and runs them
- * @authors Group 3: Mirsaid Abbasov, Alisher Beisembekov, Omar Arafa, Ali Akbar Jafri
+ * @author Alisher Beisembekov
  * @version 01/03/2021
- * ISTE-121 Project
+ * Project
  */
 public class ButtonHandle extends JPanel implements ActionListener {
    //Declaration of Attributes
